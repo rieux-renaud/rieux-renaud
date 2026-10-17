@@ -18,7 +18,7 @@ Software engineer based in Paris. I've spent the last few years testing and buil
 
 ## Outside of code
 
-I travel a lot, I'm learning Mandarin, and I keep a (very) long list of notes on history and geopolitics.
+I travel a lot and I'm learning Mandarin.
 
 ## Get in touch
 
