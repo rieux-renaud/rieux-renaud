@@ -6,7 +6,6 @@ Software engineer based in Paris. I've spent the last few years testing and buil
 
 - **Test tooling for LLM-powered Alexa**
 - **Internal QA tools** – like fast defect reporting and retesting bots used across testing teams
-- **[tmdb-app](https://github.com/rieux-renaud/tmdb-app)** – a JavaScript movie browser built on The Movie Database API
 
 ## Tech stack
 
@@ -22,8 +21,5 @@ I travel a lot and I'm learning Mandarin.
 
 ## Get in touch
 
-Open to collaborations on open-source projects, especially around developer tools, test automation and AI agents. Feel free to open an issue on one of my repos.
+Open to collaborations on open-source projects.
 
----
-
-![Renaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=rieux-renaud&show_icons=true&hide_border=true)
